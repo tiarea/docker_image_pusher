@@ -1,1 +1,3 @@
 minio/minio
+mongo:4.2
+crawlabteam/crawlab:latest
