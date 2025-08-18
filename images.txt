@@ -1,2 +1,2 @@
-nacos/nacos-server:3.0.2
+nacos/nacos-server:v3.0.2
 mysql:8.0.30
