@@ -9,3 +9,5 @@ bitnami/etcd:3.5
 milvusdb/milvus:v2.5.10
 nsqio/nsq:v1.2.1
 opencoze/opencoze:latest
+nacos/nacos-server:v3.0.2
+mysql:8.0.30
