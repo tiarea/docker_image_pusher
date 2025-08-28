@@ -1,1 +1,1 @@
-debian:trixie
+eclipse-temurin:17.0.16_8-jre-ubi9-minimal

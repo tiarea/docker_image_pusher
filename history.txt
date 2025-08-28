@@ -11,3 +11,4 @@ nsqio/nsq:v1.2.1
 opencoze/opencoze:latest
 nacos/nacos-server:v3.0.2
 mysql:8.0.30
+debian:trixie
