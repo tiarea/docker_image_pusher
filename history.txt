@@ -12,3 +12,4 @@ opencoze/opencoze:latest
 nacos/nacos-server:v3.0.2
 mysql:8.0.30
 debian:trixie
+eclipse-temurin:17.0.16_8-jre-ubi9-minimal
