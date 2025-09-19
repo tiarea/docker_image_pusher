@@ -1,4 +1,5 @@
-ginx:1.29.1-alpine
+otel/opentelemetry-collector-contrib:nightly
+nginx:1.29.1-alpine
 minio/minio
 mongo:4.2
 crawlabteam/crawlab:latest
