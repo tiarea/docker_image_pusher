@@ -1,1 +1,1 @@
-arm64v8/mysql:8.4.7-oraclelinux9
+--platform=linux/arm64/v8 mysql:8.4.7-oraclelinux9
