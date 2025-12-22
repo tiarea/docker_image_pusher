@@ -1,7 +1,1 @@
-nacos/nacos-server:v2.2.3-slim
-nacos/nacos-mysql:5.7
-redis:6.2.12
-docker.elastic.co/elasticsearch/elasticsearch:8.17.4
-docker.elastic.co/kibana/kibana:8.17.4
-docker.elastic.co/logstash/logstash:8.17.4
-elastic/elastic-agent:8.17.4
+arm64v8/mysql:8.4.7-oraclelinux9
