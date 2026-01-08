@@ -14,7 +14,7 @@ oceanbase/oceanbase-ce:4.3.5-lts
 oceanbase/seekdb:latest
 langgenius/qdrant:v1.8.3
 pgvector/pgvector:pg16
---vastdata/vastbase-vector 海量数据 dockerhub无法直接获取，dockercompose中注释
+#vastdata/vastbase-vector 海量数据 dockerhub无法直接获取，dockercompose中注释
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
 containers.intersystems.com/intersystems/iris-community:2025.3
@@ -25,7 +25,7 @@ milvusdb/milvus:v2.6.3
 opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
 opengauss/opengauss:7.0.0-RC1
-myscale/myscaledb:1.6.4
+#myscale/myscaledb:1.6.4 dockerhub中无
 matrixorigin/matrixone:2.1.1
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
