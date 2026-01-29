@@ -1,1 +1,1 @@
-1995chen/dnf:centos7-latest
+--platform=linux/arm64 minio/minio
