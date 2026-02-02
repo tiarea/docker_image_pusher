@@ -1,1 +1,3 @@
---platform=linux/arm64 minio/minio
+--platform=linux/arm64/v8 node:22-slim
+node:22-slim
+--platform=linux/arm64 nginx:latest
