@@ -1,1 +1,2 @@
-node:22-bookworm
+--platform=linux/amd64 python:3.11-slim
+--platform=linux/arm64/v8 python:3.11-slim
