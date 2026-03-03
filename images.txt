@@ -1,1 +1,2 @@
-rustdesk/rustdesk-server
+onlyoffice/documentserver:latest
+rabbitmq:3
