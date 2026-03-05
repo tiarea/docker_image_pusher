@@ -75,3 +75,5 @@ node:22-slim
 --platform=linux/arm64 nginx:latest
 node:22-bookworm
 
+onlyoffice/documentserver:latest
+rabbitmq:3
