@@ -77,3 +77,5 @@ node:22-bookworm
 
 onlyoffice/documentserver:latest
 rabbitmq:3
+--platform=linux/amd64 nacos/nacos-mcp-router:latest
+--platform=linux/arm64 nacos/nacos-mcp-router:latest
