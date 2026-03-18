@@ -79,3 +79,7 @@ onlyoffice/documentserver:latest
 rabbitmq:3
 --platform=linux/amd64 nacos/nacos-mcp-router:latest
 --platform=linux/arm64 nacos/nacos-mcp-router:latest
+--platform=linux/arm64/v8 maven:3.9-eclipse-temurin-17
+maven:3.9-eclipse-temurin-17
+--platform=linux/arm64/v8 eclipse-temurin:21-jre-alpine
+eclipse-temurin:21-jre-alpine 
