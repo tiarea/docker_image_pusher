@@ -1,1 +1,1 @@
---platform=linux/amd64 jellyfin/jellyfin:latest
+crocodilestick/calibre-web-automated:latest
