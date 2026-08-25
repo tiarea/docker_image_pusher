@@ -84,3 +84,4 @@ maven:3.9-eclipse-temurin-17
 eclipse-temurin:21-jre-alpine 
 --platform=linux/arm64/v8 maven:3.9-eclipse-temurin-21
 maven:3.9-eclipse-temurin-21--platform=linux/amd64 jellyfin/jellyfin:latest
+crocodilestick/calibre-web-automated:latest
