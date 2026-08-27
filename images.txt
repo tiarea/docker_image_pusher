@@ -1,3 +1,1 @@
-anapsix/alpine-java:8_server-jre_unlimited
-eclipse-temurin:8u472-b08-jre-ubi9-minimal
-openjdk:8u332-jre-slim
+apache/seata-server:2.1.0

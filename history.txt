@@ -85,3 +85,6 @@ eclipse-temurin:21-jre-alpine
 --platform=linux/arm64/v8 maven:3.9-eclipse-temurin-21
 maven:3.9-eclipse-temurin-21--platform=linux/amd64 jellyfin/jellyfin:latest
 crocodilestick/calibre-web-automated:latest
+anapsix/alpine-java:8_server-jre_unlimited
+eclipse-temurin:8u472-b08-jre-ubi9-minimal
+openjdk:8u332-jre-slim
